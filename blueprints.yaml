@@ -6,11 +6,11 @@ description: Creating pages dynamically based on flex object collections
 icon: plug
 author:
   name: Sebastian Laube
-  email: sebastianlaube@mindbox.de
-homepage: https://github.com/mindbox/grav-plugin-directus-dynpages
+  email: sebastian.laube@zebra.de
+homepage: https://github.com/zebra-group/grav-plugin-directus-dynpages
 keywords: grav, plugin, directus, flex-objects
-bugs: https://github.com/mindbox/grav-plugin-directus-dynpages/issues
-docs: https://github.com/mindbox/grav-plugin-directus-dynpages/blob/develop/README.md
+bugs: https://github.com/zebra-group/grav-plugin-directus-dynpages/issues
+docs: https://github.com/zebra-group/grav-plugin-directus-dynpages/blob/develop/README.md
 license: MIT
 gpm: false
 
