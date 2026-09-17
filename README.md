@@ -1,6 +1,6 @@
 # Directus Dynpages Plugin
 
-The **Directus Dynpages** Plugin is an extension for [Grav CMS](http://github.com/getgrav/grav). It is used to create pages dynamically based on Flex Objects created by the [directus2 plugin](https://github.com/mindbox/grav-plugin-directus2).
+The **Directus Dynpages** Plugin is an extension for [Grav CMS](http://github.com/getgrav/grav). It is used to create pages dynamically based on Flex Objects created by the [directus2 plugin](https://github.com/zebra-group/grav-plugin-directus2).
 
 ## Usage
 
@@ -84,21 +84,21 @@ To install the plugin automaticall with `bin/grav install`, add the following to
 ```
 git:
     directus2:
-        url: https://github.com/mindbox/grav-plugin-directus2
+        url: https://github.com/zebra-group/grav-plugin-directus2
         path: user/plugins/directus2
         branch: main
     directus-dynpages:
-        url: https://github.com/mindbox/grav-plugin-directus-dynpages
+        url: https://github.com/zebra-group/grav-plugin-directus-dynpages
         path: user/plugins/directus-dynpages
         branch: main
 ```
 
 ### Manual Installation
 
-To install the plugin manually, download the zip-version of this repository and unzip it under `/your/site/grav/user/plugins`. Then rename the folder to `directus2`. You can find these files on [GitHub](https://github.com/mindbox/grav-plugin-directus-dynpages).
+To install the plugin manually, download the zip-version of this repository and unzip it under `/your/site/grav/user/plugins`. Then rename the folder to `directus2`. You can find these files on [GitHub](https://github.com/zebra-group/grav-plugin-directus-dynpages).
 
 You should now have all the plugin files under
 
     /your/site/grav/user/plugins/directus-dynpages
 	
-> NOTE: This plugin is a modular component for Grav which may require other plugins to operate, please see its [blueprints.yaml-file on GitHub](https://github.com/mindbox/grav-plugin-directus-dynpages/blob/main/blueprints.yaml).
+> NOTE: This plugin is a modular component for Grav which may require other plugins to operate, please see its [blueprints.yaml-file on GitHub](https://github.com/zebra-group/grav-plugin-directus-dynpages/blob/main/blueprints.yaml).
